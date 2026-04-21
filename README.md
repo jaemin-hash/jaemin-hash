@@ -1,7 +1,6 @@
 #한신대학교 재학중
 ## Hi there 👋
 ### 3개
-######5
 <!--
 **jaemin-hash/jaemin-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
