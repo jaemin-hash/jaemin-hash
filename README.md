@@ -16,8 +16,8 @@
 ---
 ## 📫 Contact & Channels
 * **Email:** jaemin@hs.ac.kr
-* **GitHub:** [    ]
-* * **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+* **GitHub:** [https://github.com/jaemin-hash]
+
 <!--
 **jaemin-hash/jaemin-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
