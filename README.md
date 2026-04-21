@@ -6,10 +6,10 @@
 
 ## 📫 Contact & Channels
 * **Email:** jaemin@hs.ac.kr
-* **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+* **GitHub:** [    ]
 
 ---
-## 🎓 Education & Certifications
+## 🎓 
 
 * **[한신대학교]** | [AISW학]  (2026.03 ~ 20XX.XX)
 
