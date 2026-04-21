@@ -12,6 +12,7 @@
 ## 🎓 
 
 * **[한신대학교]** | [AISW학]  (2026.03 ~ 20XX.XX)
+*  **[자격증명]**  |
 
 <!--
 **jaemin-hash/jaemin-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
