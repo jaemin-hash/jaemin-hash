@@ -9,7 +9,7 @@
 * **GitHub:** [    ]
 
 ---
-## 🎓 
+## 🎓 ## 🎓 Education & Certifications
 
 * **[한신대학교]** | [AISW학]  (2026.03 ~ 20XX.XX)
 *  **[자격증명]**  |
