@@ -1,6 +1,18 @@
-#한신대학교 재학중
-## Hi there 👋
-### 3개
+# 🧑‍💻 [한신대 재학생]
+> **"문제 해결을 즐기고, 비즈니스 가치를 창출하는 코드 작성을 지향합니다."**
+> 끊임없이 학습하고 동료들과 지식을 공유하는 것을 좋아하며, 확장 가능하고 유지보수가 쉬운 아키텍처 설계에 관심이 많습니다.
+> 
+---
+
+## 📫 Contact & Channels
+* **Email:** jaemin@hs.ac.kr
+* **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+
+---
+## 🎓 Education & Certifications
+
+* **[한신대학교]** | [AISW학]  (2026.03 ~ 20XX.XX)
+
 <!--
 **jaemin-hash/jaemin-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
